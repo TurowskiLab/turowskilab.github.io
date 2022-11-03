@@ -1,8 +1,17 @@
-- title: "Determination of the charge transfer when tunneling into putative Majorana modes in individual vortices in FeTe0.55Se0.045"
-  image: imageaward_edited.png
-  description: Shot noise has been suggested for a long time as a tell-tale probe for Majorana bound states. We are the first to carry out local tunneling shot noise measurements on the putative vortex Majorana states.
-  authors: J-F Ge, KM Bastiaans, D Chatzopoulos, D Cho, WO Tromp, T Benschop, J Niu, G Gu, MP Allan
+- title: "Specific Features of RNA Polymerases I and III: Structure and Assembly"
+  image: RNAPI_and_III.jpg
+  description: Mini-review on structure and biogenesis of RNA polymerase I and III.
+  authors: Turowski TW, Boguta M 
   link:
-    url: https://arxiv.org/abs/2205.10346
-    display: arXiv:2205.10346 (2022)
+    url: https://www.frontiersin.org/articles/10.3389/fmolb.2021.680090/full
+    display: Frontiers in Molecular Biosciences 8, 349
+  highlight: 1
+
+  - title: "Nascent transcript folding plays a major role in determining RNA polymerase elongation rates."
+  image: RNAPI_2021.jpg
+  description: Research paper where we show that nascent folding of RNA affect kinetics of RNA polymerases
+  authors: Turowski TW, Petfalski E, Goddard BD, French SL, Helwak A, Tollervey D 
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S1097276520303877?via%3Dihub
+    display: Molecular Cell 79(3)488-503
   highlight: 1

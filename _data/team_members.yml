@@ -1,6 +1,15 @@
+- name: Tomasz Turowski
+  photo: tomaszturowski.jpg
+  info: PI
+  email: tomasz.turowski@ibb.waw.pl
+  number_educ: 3
+  education1: Postdoc with <a href="https://tollervey.bio.ed.ac.uk/">David Tollervey</a> at University of Edinburgh <a href="https://www.wcb.ed.ac.uk/">WCCB</a>
+  education2: PhD with Magdalena Boguta at <a href="https://www.ch.pw.edu.pl/ch_en">Warsaw University of Technology</a>
+  education3: MSc with Jan Kopcewicz at <a href="https://www.biol.umk.pl/en/">Nicolaus Copernicus University</a>
+
 - name: Katarzyna (Kasia) Grelewska-Nowotko
   photo: xxx
-  info: Lab Manager, started Aug 2021
+  info: Lab Manager
   email: xxx
   number_educ: 2
   education1: XXX <a href="http://www.ethfellows.ethz.ch/">ETH fellow</a> at ETHZ with <a href="https://qudev.phys.ethz.ch">Andreas Wallraff</a>
@@ -15,9 +24,8 @@
 
 - name: Marta Hałasa
   photo: xxx
-  info: Postdoc, started March 2022
-  email: xxx
+  info: Postdoc
+  email: mhalasa@ibb.waw.pl
   number_educ: 2
-  education1: PhD with xxx
-  education2: MSc xxx
-
+  education1: PhD with <a href="https://umlub.pl/uczelnia/struktura-organizacyjna/szczegoly,873.html">Andrzej Stepulak</a>, Medical University of Lublin
+  education2: MSc Eng with <a href="https://skos.agh.edu.pl/osoba/marek-nocun-2304.html">Marek Nocun</a>, AGH University of Science and Technology
