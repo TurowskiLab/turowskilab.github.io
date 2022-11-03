@@ -1,12 +1,12 @@
 ---
-title: "Allan Lab - Home"
+title: "Turowski Lab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Turowski Lab at IBB PAS."
 sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter.
+We are a Laboratory of Transcription Mechanism at the [Institute of Biochemistry and Biophysics](http://www.ibb.edu.pl). We are interested in understanding how the biophysics of transcription affects gene regulation. Our goal is to apply this knowledge to problems such as SARS-CoV-2 transcription and RNA polymerase III‑related leukodystrophy, and to improve the design of synthetic genomes.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
