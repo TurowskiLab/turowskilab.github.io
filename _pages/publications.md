@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Group highlights
 
-**At the end of this page, you can find the [full list of publications](#full-list-of-publications). All papers are also available on [arXiv](https://arxiv.org/search/?searchtype=author&query=Allan%2C+M+P).**
+**At the end of this page, you can find the [full list of publications](#full-list-of-publications). All papers are also available on [Google Scholar](https://scholar.google.ch/citations?hl=en&user=arjYzM8AAAAJ) and preprints in [bioRxiv](https://www.biorxiv.org/search/author1%3Aturowski%2Btw).**
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
