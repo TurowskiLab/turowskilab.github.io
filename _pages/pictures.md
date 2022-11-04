@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Turowski Lab - Pictures"
 layout: piclay
 excerpt: "Turowski Lab -- Pictures"
@@ -51,4 +51,4 @@ Jump to: [Warsaw](#Warsaw)
 </div>
 {% endif %}
 
-<p> &nbsp; </p>
+<p> &nbsp; </p> -->

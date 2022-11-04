@@ -12,7 +12,7 @@ permalink: /vacancies
 
 We are looking for new group members with passion, talent, and grit!
 
-You will have the chance to work on the grand challenges of condensed matter physics, often at the interface of instrumental design and new physics. You will be involved in determining the important and interesting questions, creating and improving instrumental setups, performing measurements, and making discoveries.
+You will have the chance to work on the novel aspects of RNA biology, applying cutting edge methods, novel concepts, and making discoveries.
 
 ### Applications for PhD and Postdoc positions
 If you are interested in working with us as a PhD student or postdoc, please send me an [email](mailto:tomasz.turowski@ibb.waw.pl). State briefly why you are interested and attach a CV. For PhD positions include information about the grades you had as an undergraduate. No need for a separate cover letter or certificates. **Important**: please insert _"Application PhD"_ or _"Application Postdoc"_ in the subject line. If you are applying to a specific advertisement, note this in your email.

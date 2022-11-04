@@ -1,17 +1,188 @@
+- title: "A disease-linked lncRNA mutation in RNase MRP inhibits ribosome synthesis"
+  image: 
+  description: 
+  authors: Roberston N, Shchepachev V, Wright D, Turowski TW, Spanos C, Helwak A, Zamoyska R, Tollervey D
+  link:
+    url: https://doi.org/10.1038/s41467-022-28295-8
+    display: Nature Communications 13(1):649 (2022)
+  highlight: 0
+
+- title: "Rbs1 protein, an assembly factor of RNA polymerase III complex in the yeast Saccharomyces cerevisiae, induces a Gcn4 response and forms aggregates when overproduced"
+  image: 
+  description: 
+  authors: Rudzińska I, Płonka M, Armatowska A, Turowski TW, Boguta M
+  link:
+    url: https://doi.org/10.1016/j.gene.2021.146034
+    display: Gene 146034 (2021)
+  highlight: 0
+
 - title: "Specific Features of RNA Polymerases I and III: Structure and Assembly"
   image: RNAPI_and_III.jpg
   description: Mini-review on structure and biogenesis of RNA polymerase I and III.
   authors: Turowski TW, Boguta M 
   link:
-    url: https://www.frontiersin.org/articles/10.3389/fmolb.2021.680090/full
-    display: Frontiers in Molecular Biosciences 8, 349
+    url: https://doi.org/10.3389/fmolb.2021.680090
+    display: Frontiers in Molecular Biosciences 8, 349 (2021)
   highlight: 1
+
+- title: "NANOS2 binding regulates mRNA half-life to promote spermatogonial stem cell survival"
+  image: 
+  description: 
+  authors: Codino A, Turowski TW, van de Lagemaat LN, Ivanova I, Much C, Auchynnikava T, Rappsilber J, Allshire RC, Kranc K, Tollervey D, O’Carroll D
+  link:
+    url: https://doi.org/10.1016/j.isci.2021.102762
+    display: iScience 24(7):102762 (2021)
+  highlight: 0
+
+- title: "Integrative Vectors for Regulated Expression of SARS-CoV-2 Proteins Implicated in RNA Metabolism"
+  image: Nsp2induction.gif
+  description: 
+  authors: Bresson S, Robertson N, Sani E, Turowski TW, Shchepachev V, Kompauerova M, Spanos C, Helwak A, Tollervey D
+  link:
+    url: https://wellcomeopenresearch.org/articles/5-261
+    display: Wellcome Open Research 5:261 (2020)
+  highlight: 1
+
+- title: "The expression of Rpb10, a small subunit common to RNA polymerases, is modulated by the R3H domain-containing Rbs1 protein and the Upf1 helicase"
+  image: 
+  description: 
+  authors: Cieśla M, Turowski TW, Nowotny M, Tollervey D, Boguta M
+  link:
+    url: https://doi.org/10.1093/nar/gkaa1069
+    display: Nucleic Acids Research, 48, 21:12252–12268 (2020) 
+  highlight: 0
+
+- title: "Stress-induced translation inhibition through displacement of scanning initiation factors"
+  image: 
+  description: 
+  authors: Bresson S, Shchepachev V, Spanos C, Turowski TW, Rappsilber J, Tollervey D
+  link:
+    url: https://doi.org/10.1016/j.molcel.2020.09.021
+    display: Molecular Cell 80(3):470-484 (2020)
+  highlight: 0
+
+- title: "Extended ncRNAs Interfere with Promoter Nucleosome Dynamics"
+  image: 
+  description: 
+  authors: Turowski TW, Tollervey D
+  link:
+    url: https://doi.org/10.1016/j.tig.2020.05.011
+    display: Trends in Genetics 36(9)637-639 (2020)
+  highlight: 0
 
 - title: "Nascent transcript folding plays a major role in determining RNA polymerase elongation rates."
   image: RNAPI_2021.jpg
   description: Research paper where we show that nascent folding of RNA affect kinetics of RNA polymerases
   authors: Turowski TW, Petfalski E, Goddard BD, French SL, Helwak A, Tollervey D 
   link:
-    url: https://www.sciencedirect.com/science/article/pii/S1097276520303877?via%3Dihub
-    display: Molecular Cell 79(3)488-503
+    url: https://doi.org/10.1016/j.molcel.2020.06.002
+    display: Molecular Cell 79(3)488-503 (2020)
   highlight: 1
+
+- title: "Molecular interactions between Hel2 and RNA supporting ribosome-associated quality control"
+  image: 
+  description: 
+  authors: Winz ML, Peil L, Turowski TW, Rappsilber J, Tollervey D
+  link:
+    url: https://doi.org/10.1038/s41467-019-08382-z
+    display: Nature Communications 10(1):563 (2019)
+  highlight: 0
+ 
+- title: "Transcription by RNA polymerase III: insights into mechanism and regulation"
+  image: 
+  description: 
+  authors: Turowski TW, Tollervey D
+  link:
+    url: https://doi.org/10.1042/bst20160062
+    display: Biochemical Society Transactions Oct 15;44(5):1367-1375 (2016)
+  highlight: 0
+
+- title: "Global analysis of transcriptionally engaged yeast RNA polymerase III reveals extended tRNA transcripts"
+  image: 
+  description: 
+  authors: Turowski TW, Leśniewska E, Delan-Forino C, Sayou C, Boguta M, Tollervey D
+  link:
+    url: https://doi.org/10.1101/gr.205492.116
+    display: Genome Research Jul;26(7):933-44 (2016)
+  highlight: 0
+
+- title: "Phase equilibrium and bioproduction of the aroma compound 2-phenylethanol in a biphasic aqueous system"
+  image: 
+  description: 
+  authors: Domańska U, Okuniewski M, Okuniewska O, Paduszyński K, Turowski TW
+  link:
+    url: 
+    display: European Food Research and Technology 240 (6), 1177-1186 (2015)
+  highlight: 0
+
+- title: "Cotranscriptional Events in Eukaryotic Ribosome Synthesis"
+  image: 
+  description: 
+  authors: Turowski TW, Tollervey D
+  link:
+    url: https://doi.org/10.1002/wrna.1263
+    display: Wiley Interdisciplinary Reviews: RNA 6(1):129-39 (2015)
+  highlight: 0
+
+- title: "Rio1 mediates ATP-dependent final maturation of 40S ribosomal subunits"
+  image: 
+  description: 
+  authors: Turowski TW, Lebaron S, Zhang E, Peil L, Dudnakova T, Petfalski E, Granneman S, Rappsilber J, Tollervey D
+  link:
+    url: https://doi.org/10.1093/nar/gku878
+    display: Nucleic Acids Research 42(19):12189-99 (2014)
+  highlight: 0
+
+- title: "An interplay between transcription, processing and degradation determines tRNA levels in yeast"
+  image: 
+  description: 
+  authors: Wichtowska D, Turowski TW, Boguta M
+  link:
+    url: https://doi.org/10.1002/wrna.1190
+    display: Wiley Interdisciplinary Reviews: RNA 4(6):709-22 (2013)
+  highlight: 0
+
+- title: "The impact of transcription on posttranscriptional processes in yeast"
+  image: 
+  description: 
+  authors: Turowski TW
+  link:
+    url: https://doi.org/10.1016/j.gene.2013.04.021
+    display: Gene 526:23-29 (2013)
+  highlight: 0
+
+- title: "Maf1-mediated repression of RNA polymerase III transcription inhibits tRNA degradation via RTD pathway"
+  image: 
+  description: 
+  authors: Turowski TW, Karkusiewicz I, Kowal J, Boguta M
+  link:
+    url: https://doi.org/10.1261/rna.033597.112
+    display: RNA 18:1823-1832 (2012)
+  highlight: 0
+
+- title: "Maf1, repressor of polymerase III RNA, is involved in tRNA processing"
+  image: 
+  description: 
+  authors: Karkusiewicz I, Turowski TW, Graczyk D, Towpik J, Dhungel N, Hopper AK, Boguta M
+  link:
+    url: https://doi.org/10.1074/jbc.m111.253310
+    display: Journal of Biological Chemistry 286(45):39478-88 (2011)
+  highlight: 0
+
+- title: "Search of radiation hormesis in plants: irradiation of the cress (Lepidium sativum L.)"
+  image: 
+  description: 
+  authors: Fornalski KW, Adamowski Ł,Dobrzyński L, Turowski TW, Wojnarowicz J
+  link:
+    url: 
+    display: Nukleonika 57(3), s.421-426 (2012)
+  highlight: 0
+
+- title: "[Ubiquitin ligases involved in auxin, jasmonate and gibberellin signal transduction pathways]"
+  image: 
+  description: 
+  authors: Marciniak K, Turowski T, Wilmowicz E, Frankowski K, Kęsy J, Kopcewicz J
+  link:
+    url: 
+    display: Postępy Biologii Komórki 37: 409-433 (2010)
+  highlight: 0
