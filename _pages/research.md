@@ -6,7 +6,7 @@ sitemap: false
 permalink: /research/
 ---
 
-Jump to [Research](#Research), [Methods](#Methods), [Tools](#Tools).
+Jump to [Research](#research), [Methods](#methods), [Tools](#tools).
 
 # Research
 <div style="text-align: justify">
