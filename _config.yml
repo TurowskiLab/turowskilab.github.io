@@ -7,7 +7,7 @@
 
 # Site settings
 title: The Turowski Lab
-email: your-email@domain.com
+email: tomasz.turowski@ibb.waw.pl
 description: > # this means to ignore newlines until "baseurl:"
   Website of the Turowski Lab.
 baseurl: ""
@@ -40,3 +40,6 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
   parse_block_html: true # default for kramdown is false. This will enable using Markdown links
+
+imagesurl: "/images/picpic/"
+thumbsurl: "/images/thumbs/"

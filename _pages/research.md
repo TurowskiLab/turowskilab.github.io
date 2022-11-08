@@ -101,6 +101,9 @@ Culturing and genetic manipulations including CRISPR-based approches.
 - [pyCRAC](https://sandergranneman.bio.ed.ac.uk/pycrac-software)
 - featureCounts from [subread](https://subread.sourceforge.net/)
 
-We also develope in-house tools, some of there are already publicly availible:
+----
+
+We also develope in-house tools, some of them are already publicly availible:
 
 - [**trxtools**](https://github.com/TurowskiLab/trxtools) tools. Package of python tools facilitating bioinformatic analysis of RNA and nascent RNA sequencing data. Check [documentation](https://turowskilab.github.io/trxtools/) for details.
+- Mathematical model of [**RNAP**](https://bitbucket.org/bdgoddard/rnap_public/). MATLAB code simulating kinetics of RNA polymerase I published in [Turowski](https://doi.org/10.1016/j.molcel.2020.06.002) et al 2020 Molecular Cell paper.

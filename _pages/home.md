@@ -54,7 +54,12 @@ We are located at the Institute of Biochemistry and Biophysics Polish Academy of
 We are grateful for funding from IBB PAS, NAWA and NCN.
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_IBB.jpg" style="width: 200px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NAWA.jpg" style="width: 300px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NCN.jpg" style="width: 150px">
+  <a href="https://ibb.edu.pl/en/">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_IBB.jpg" style="width: 200px"></a>
+  <a href="https://nawa.gov.pl/en/">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NAWA.jpg" style="width: 300px"></a>
+  <a href="https://ncn.gov.pl/en">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NCN.jpg" style="width: 100px"></a>
 </figure>
+
+<br/>
