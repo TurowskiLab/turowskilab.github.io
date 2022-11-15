@@ -59,8 +59,30 @@ Jump to [Staff](#Staff-and-PhD-Students), [Students](#Undergraduate-Students), [
   <li> {{ member.education5 }} </li>
   {% endif %}
 
+  {% if member.orcid %}
+  <a href="https://orcid.org/{{member.orcid}}"><img alt="orcid" src="{{ site.url }}{{ site.baseurl }}/images/orcid.jpg" width="20" height="20"/></a>
+  {% endif %}
+
+  {% if member.github %}
+  <a href="https://github.com/{{member.github}}"><img alt="github" src="{{ site.url }}{{ site.baseurl }}/images/github.png" width="20" height="20"/></a>
+  {% endif %}
+
+  {% if member.scholar %}
+  <a href="https://scholar.google.com/citations?user={{member.scholar}}"><img alt="scholar" src="{{ site.url }}{{ site.baseurl }}/images/scholar.png" width="23" height="23"/></a>
+  {% endif %}
+
+  {% if member.twitter %}
+  <a href="https://twitter.com/{{member.twitter}}"><img alt="twitter" src="{{ site.url }}{{ site.baseurl }}/images/twitter.png" width="20" height="20"/></a>
+  {% endif %}
+
   </ul>
+
+
+
 </div>
+
+
+
 
 {% assign number_printed = number_printed | plus: 1 %}
 

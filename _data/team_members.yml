@@ -6,6 +6,11 @@
   education1: Postdoc with <a href="https://tollervey.bio.ed.ac.uk/">David Tollervey</a> at University of Edinburgh <a href="https://www.wcb.ed.ac.uk/">WCCB</a>
   education2: PhD with Magdalena Boguta at <a href="https://www.ch.pw.edu.pl/ch_en">Warsaw University of Technology</a>
   education3: MSc with Jan Kopcewicz at <a href="https://www.biol.umk.pl/en/">Nicolaus Copernicus University</a>
+  orcid: 0000-0002-7052-8682
+  github: tturowski
+  scholar: arjYzM8AAAAJ
+  twitter: 
+
 
 - name: Katarzyna (Kasia) Grelewska-Nowotko
   photo: kasgn.jpeg
@@ -14,7 +19,10 @@
   number_educ: 2
   education1: <a href="https://ihar.edu.pl/pl/instytut/struktura/radzikow/lkgmo">GMO Control Laboratory</a> at <a href="https://ihar.edu.pl/">IHAR</a>
   education2: MSc Eng with <a href="https://binoz.p.lodz.pl/arch/pl/Grzegorz-Bujacz">Grzegorz Bujacz</a> at Lodz University of Technology and <a href="https://med.virginia.edu/faculty/faculty-listing/zsd4n/">Zygmunt Derewenda</a> at University of Virginia
-
+  orcid: 0000-0003-4091-5734
+  github: 
+  scholar:
+  twitter:
 
 - name: Jan (Janek) Mikołajczyk
   photo: janmiko.jpg
@@ -22,6 +30,10 @@
   email: jmikolajczyk@ibb.waw.pl
   number_educ: 1
   education1: MSc with <a href="https://kufel.igib.uw.edu.pl/">Joanna Kufel</a>, Warsaw University
+  orcid: 0000-0001-8210-0504
+  github: j-miko
+  scholar:
+  twitter:
 
 - name: Marta Hałasa
   photo: marhal.png
@@ -30,3 +42,7 @@
   number_educ: 2
   education1: PhD with <a href="https://umlub.pl/uczelnia/struktura-organizacyjna/szczegoly,873.html">Andrzej Stepulak</a>, Medical University of Lublin
   education2: MSc Eng with <a href="https://skos.agh.edu.pl/osoba/marek-nocun-2304.html">Marek Nocun</a>, AGH University of Science and Technology
+  orcid: 0000-0002-0538-7342
+  github: martahalasa
+  scholar:
+  twitter:
