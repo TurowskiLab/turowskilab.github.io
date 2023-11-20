@@ -8,17 +8,16 @@ permalink: /vacancies
 
 # Open positions
 
-We are looking for new group members with passion, talent, and grit!
-
-You will have the chance to work on the novel aspects of RNA biology, applying cutting edge methods, novel concepts, and making discoveries.
-
-----
-
 
 **We are currently open for PhD applications for 4 year IBB PAS PhD Programme.**
 
 For details visit [**IBB PhD School**](https://ibb.edu.pl/en/phd-studies/rekrutacja/) recruitment web page.
 
+----
+
+We are looking for new group members with passion, talent, and grit!
+
+You will have the chance to work on the novel aspects of RNA biology, applying cutting edge methods, novel concepts, and making discoveries.
 
 ----
 
