@@ -14,9 +14,11 @@ You will have the chance to work on the novel aspects of RNA biology, applying c
 
 ----
 
-**We are currently open for postdoc applications related to our NAWA grant. The position is mostly related to the RNA-dependent RNA polymerase of SARS-CoV-2.**
 
-For details visit [**IBB**](https://ibb.edu.pl/app/uploads/2022/11/202211_post-doc_nawa_turowski.pdf) recruitment web page.
+**We are currently open for PhD applications for 4 year IBB PAS PhD Programme.**
+
+For details visit [**IBB PhD School**](https://ibb.edu.pl/en/phd-studies/rekrutacja/) recruitment web page.
+
 
 ----
 

@@ -1,3 +1,21 @@
+- title: "Design, Construction, and Functional Characterization of a tRNA Neochromosome in Yeast"
+  image: 
+  description: 
+  authors: 1.	Schindler D, Walker RSK, Jiang S, Brooks AN, Wang Y, Müller CA, Cockram C, Luo Y, García A, Schraivogel D, Mozziconacci J, Pena N, Assari M, Sánchez Olmos MdC, Zhao Y, Ballerini A, Blount BA, Cai J, Ogunlana L, Liu W, Jönsson K, Abramczyk D, Garcia-Ruiz E, Turowski TW, Swidah R, Ellis T, Pan T, Antequera F, Shen Y, Nieduszynski CA, Koszul R, Dai J, Steinmetz LM, Boeke JD, Cai Y
+  link:
+    url: https://doi.org/10.1016/j.cell.2023.10.015
+    display: Cell 5:S0092-8674(23)01130-3 (2023)
+  highlight: 0
+
+- title: "The conserved RNA-binding protein Seb1 promotes cotranscriptional ribosomal RNA processing by controlling RNA polymerase I progression"
+  image: 
+  description: 
+  authors: Duval M, Yague-Sanz C, Turowski TW, Petfalski E, Tollervey D, Bachand F
+  link:
+    url: https://doi.org/10.1038/s41467-023-38826-6
+    display: Nature Communications 14(1):3013 (2023)
+  highlight: 0
+
 - title: "A disease-linked lncRNA mutation in RNase MRP inhibits ribosome synthesis"
   image: 
   description: 
