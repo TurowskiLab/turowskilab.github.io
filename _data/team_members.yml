@@ -24,17 +24,6 @@
   scholar:
   twitter:
 
-- name: Jan (Janek) Mikołajczyk
-  photo: janmiko.jpg
-  info: PhD student, started Oct 2021
-  email: jmikolajczyk@ibb.waw.pl
-  number_educ: 1
-  education1: MSc with <a href="https://kufel.igib.uw.edu.pl/">Joanna Kufel</a>, Warsaw University
-  orcid: 0000-0001-8210-0504
-  github: j-miko
-  scholar:
-  twitter:
-
 - name: Ahmed Eisa Elhag
   photo: ahmedee.jpeg
   info: Postdoc
@@ -44,5 +33,28 @@
   education2: MSc Veterinary, University of Khartoum, Sudan
   orcid: 0000-0002-0738-1825
   github: 
+  scholar:
+  twitter:
+
+- name: Mohammed Ameen Kollaran
+  photo: amkol.jpg
+  info: Postdoc
+  email: akollaran@ibb.waw.pl
+  number_educ: 2
+  education1: PhD with Prof. Varsha Singh at Indian Institute of Science, Bangalore, India
+  education2: MS(Res.) at Indian Institute of Science, Bangalore, India
+  orcid: 0000-0002-0836-9991
+  github: biomeen
+  scholar: zYVjeQgAAAAJ
+  twitter:
+
+  - name: Jan (Janek) Mikołajczyk
+  photo: janmiko.jpg
+  info: PhD student, started Oct 2021
+  email: jmikolajczyk@ibb.waw.pl
+  number_educ: 1
+  education1: MSc with <a href="https://kufel.igib.uw.edu.pl/">Joanna Kufel</a>, Warsaw University
+  orcid: 0000-0001-8210-0504
+  github: j-miko
   scholar:
   twitter:
