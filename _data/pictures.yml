@@ -1,0 +1,2 @@
+#  rin in picpic folder
+# find . -maxdepth 2 -name "*.jpg" | xargs -I {} convert -resize 20% {} ../thumbs/{}
