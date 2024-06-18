@@ -6,15 +6,11 @@ permalink: /pictures/
 ---
 
 # Pictures
-Jump to: [Lab](#lab), [Openinig](#lab-openinig), [Trips](#trips), [Outreach](#outreach)
+Jump to: [Social](#social), [Trips](#trips), [Outreach](#outreach), [Lab](#lab), [Openinig](#lab-openinig),
 
-## Lab
+## Social
 
-{% include gallery.html folder="lab" %}
-
-## Lab openinig
-
-{% include gallery.html folder="starts" %}
+{% include gallery.html folder="social" %}
 
 ## Trips
 
@@ -23,6 +19,14 @@ Jump to: [Lab](#lab), [Openinig](#lab-openinig), [Trips](#trips), [Outreach](#ou
 ## Outreach
 
 {% include gallery.html folder="outreach" %}
+
+## Lab
+
+{% include gallery.html folder="lab" %}
+
+## Lab openinig
+
+{% include gallery.html folder="starts" %}
 
 
 <!-- {% assign filenames = "sp1.jpg,sp2.jpg,sp3.jpg,sp4.jpg" | split: "," %}
