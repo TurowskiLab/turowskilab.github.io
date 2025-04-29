@@ -1,3 +1,31 @@
+
+- title: "Multiple mechanisms of termination modulate the dynamics of RNAPI transcription"
+  image: RNAPI_termination.png
+  description: In this work we uncovered multiple mechanisms contributing to RNAPI transcription termination, including road-block termination, end-nucleolytic cleavage, and Rat1 torpedo termination.
+  authors: Petfalski E, Winz ML, Grelewska-Nowotko K, Turowski TW*, Tollervey D*
+  link:
+    url: hhttps://doi.org/10.1016/j.celrep.2025.115325
+    display: Cell Reports 44(3):115325 (2025)
+  highlight: 1
+
+- title: "Transcription Kinetics in the Coronavirus Life Cycle"
+  image: CoVreview.png
+  description: An advanced review on transcription kinetics in CoVs.
+  authors: Grelewska-Nowotko K, Elhage AE, Turowski TW
+  link:
+    url: https://doi.org/10.1002/wrna.70000
+    display: WIREs:RNA 16(1):e70000 (2025)
+  highlight: 1
+
+- title: "Roles of SNORD115 and SNORD116 ncRNA clusters in neuronal differentiation. Nature Communications 15(1):10427"
+  image: 
+  description: 
+  authors: Helwak A, Turowski TW, Spanos C, Tollervey D
+  link:
+    url: https://doi.org/10.1038/s41467-024-54573-8
+    display: Nature Communications 15(1):10427 (2024)
+  highlight: 0
+
 - title: "Design, Construction, and Functional Characterization of a tRNA Neochromosome in Yeast"
   image: 
   description: 
@@ -59,7 +87,7 @@
   link:
     url: https://wellcomeopenresearch.org/articles/5-261
     display: Wellcome Open Research 5:261 (2020)
-  highlight: 1
+  highlight: 0
 
 - title: "The expression of Rpb10, a small subunit common to RNA polymerases, is modulated by the R3H domain-containing Rbs1 protein and the Upf1 helicase"
   image: 

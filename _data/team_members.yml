@@ -70,3 +70,25 @@
   github: Raymi556
   scholar:
   twitter:
+
+- name: Partha Panda
+  photo: parpan.jpg
+  info: PhD student, started Mar 2025
+  email: ppanda@ibb.waw.pl
+  number_educ: 1
+  education1: M. Sc in Biotechnology from <a href="https://www.iiserb.ac.in/">IISER Bhopal</a> and Junior Research Fellow @ Institute of Life Sciences
+  orcid: 0009-0008-3528-2817
+  github: paarth0311
+  scholar:
+  twitter:
+
+- name: Parisa Malakouti
+  photo: parmal.jpg
+  info: PhD student, started Mar 2025
+  email: pmalakouti@imdik.pan.pl
+  number_educ: 1
+  education1: Graduated from <a href="https://www.muk.ac.ir/">Kurdistan University of Medical Sciences</a>
+  orcid: 0009-0007-7068-1234
+  github:
+  scholar: FvfFEyIAAAAJ
+  twitter:
