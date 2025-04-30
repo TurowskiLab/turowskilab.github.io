@@ -8,7 +8,9 @@ permalink: /vacancies
 
 # Open positions
 
-There are no open positions at the moment, but we are always open to letters of intent from motivated individuals. For details, please see below.
+All new openings will be posted here as they become available, but we also encourage motivated individuals to reach out at any time to express their interest in joining our group.
+
+Our core focus is on molecular biology, biochemistry, and bioinformatics. However, given our current research directions, we also encourage applications from candidates with expertise or interest in neurobiology, stem cell biology, mouse models, and medicinal chemistry.
 
 <!-- **We are currently open for PhD applications for 4 year IBB PAS PhD Programme.** -->
 <!--  -->
@@ -16,9 +18,9 @@ There are no open positions at the moment, but we are always open to letters of 
 
 ----
 
-We are looking for new group members with passion, talent, and grit!
+We are looking for individuals with passion, talent, and grit!
 
-You will have the chance to work on novel aspects of RNA biology, applying cutting-edge methods, exploring new concepts, and making discoveries.
+Our group offers the opportunity to work on novel aspects of RNA biology, applying cutting-edge methods, exploring new concepts, and making meaningful discoveries.
 
 ----
 
